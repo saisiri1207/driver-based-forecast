@@ -10,7 +10,7 @@ Driver-based P&L for a fictional CPG company (**Northline Consumer Products**): 
 - Revenue = volume × price; mix % and ASP; plan vs latest-view forecast
 - COGS = volume × cost per unit, with a cost-inflation input and a scenario unit-cost factor
 - OpEx by cost center: selling and marketing (% of sales + monthly fixed), distribution ($/case + fixed), G&A and R&D (fixed)
-- A 12-month P&L (forecast) with FY plan, variance, and % 
+- A 12-month P&L (forecast) with FY plan, variance, and %
 - Plan vs forecast walks for revenue (volume / mix / price), COGS, OpEx, and EBITDA
 - A Base / Upside / Downside toggle that scales the forecast only
 
@@ -49,6 +49,4 @@ Excel (formulas only — no VBA). Built so another analyst can inherit the file 
 
 All sample numbers are fictional.
 
-## Profile
-
-Sai Siri Bandaru — Financial Analyst | FP&A | forecasting, variance analysis, Excel
+[Profile](https://github.com/saisiri-bandaru) · [Portfolio](https://saisiri-bandaru.github.io) · [LinkedIn](https://www.linkedin.com/in/bandarusaisiri) · [bandarusaisiri1207@gmail.com](mailto:bandarusaisiri1207@gmail.com)
