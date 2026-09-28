@@ -1,0 +1,2 @@
+# build.py only generates the Excel workbook. Exclude it from language stats.
+*.py linguist-detectable=false
