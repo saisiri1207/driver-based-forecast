@@ -4,6 +4,9 @@ Driver-based P&L for a fictional CPG company (**Northline Consumer Products**): 
 
 **Deliverable:** [`Northline_Driver_Based_Forecast.xlsx`](Northline_Driver_Based_Forecast.xlsx)
 
+![driver-based-forecast preview](dashboard-preview.png)
+
+
 `build.py` only regenerates that workbook. The file a hiring manager should open is the `.xlsx`.
 
 ## Business question
@@ -36,4 +39,4 @@ Cut volume ~10% on `01_Assumptions` and leave price and unit cost fixed. Revenue
 
 Excel formulas only. No VBA, no live ERP or demand-planning feed, no employer data. This is the driver-based P&L / reforecast slice, not a three-statement model.
 
-[Profile](https://github.com/saisiri-bandaru) · [Portfolio](https://saisiri-bandaru.github.io) · [LinkedIn](https://www.linkedin.com/in/bandarusaisiri) · [bandarusaisiri1207@gmail.com](mailto:bandarusaisiri1207@gmail.com)
+[Profile](https://github.com/saisiri1207) · [Portfolio](https://saisiri1207.github.io) · [LinkedIn](https://www.linkedin.com/in/saisiri1207) · [bandarusaisiri1207@gmail.com](mailto:bandarusaisiri1207@gmail.com)
